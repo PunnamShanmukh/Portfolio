@@ -10,19 +10,15 @@ Gun Shooting game: TPS critical combat. Modern third person shooter: battle ops
 
 ### 📸 Screenshots  
 
-<p align="center">
-  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%201.jpg?raw=true" alt="Screenshot 1" width="400">
-  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%202.jpg?raw=true" alt="Screenshot 2" width="400">
-  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%203.jpg?raw=true" alt="Screenshot 2" width="400">
-  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%204.jpg?raw=true" alt="Screenshot 2" width="400">
-  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%205.jpg?raw=true" alt="Screenshot 2" width="400">
-  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%206.jpg?raw=true" alt="Screenshot 2" width="400">
-  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%207.jpg?raw=true" alt="Screenshot 2" width="400">
-</p>
-<p align="center">
-  <i>Screenshot 1: Description of the first image</i><br>
-  <i>Screenshot 2: Description of the second image</i>
-</p>
+<div style="display: flex; overflow-x: auto; padding: 20px;">
+  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%201.jpg?raw=true" alt="Screenshot 1" width="400" style="margin-right: 10px;">
+  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%202.jpg?raw=true" alt="Screenshot 2" width="400" style="margin-right: 10px;">
+  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%203.jpg?raw=true" alt="Screenshot 3" width="400" style="margin-right: 10px;">
+  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%204.jpg?raw=true" alt="Screenshot 4" width="400" style="margin-right: 10px;">
+  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%205.jpg?raw=true" alt="Screenshot 5" width="400" style="margin-right: 10px;">
+  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%206.jpg?raw=true" alt="Screenshot 6" width="400" style="margin-right: 10px;">
+  <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Screanshot%207.jpg?raw=true" alt="Screenshot 7" width="400">
+</div>
 
 ---
 
@@ -30,55 +26,96 @@ Gun Shooting game: TPS critical combat. Modern third person shooter: battle ops
 
 ### 📝 Full Description  
 <p align="justify">
-Immerse yourself in the new PvP shooter 2022 💣War Ground💣. Constant conflict between the nations and diminishing resources brought an end to the world as we knew it. Resources became scarce and several factions will stop at nothing to get what remains. Answer a call of duty and join one of the factions in a post-apocalyptic world of eternal confrontation. Fight on several fallout arenas, choose and upgrade weapons, fighters and gears to dominate the world and lead your division to victory. Rise your rank through battles to access better equipment!
+# 🚀 War Ground – Indie PvP Shooter Game
 
-Design unique appearance, choose your side and burst into exciting online PvP battles designed specifically for mobile devices! Fight and develop your tactics according to arena, your side, guns and style of war. Duty calls to dive into never ending action and strike your enemies with one of several dozens available guns. Player can experience like best in new games, shooting games, fighting games, online games, zombie games.
+<p align="left">
+  <img src="https://your-icon-url.com/war-ground-icon.png" alt="War Ground Icon" width="100">
+</p>
 
-War Ground crossfire action warfare shooter is absolutely FREE to download and play!
+### 📋 Short Description  
+**War Ground** is a fully immersive, post-apocalyptic PvP shooter game where players battle for dominance in faction-based, resource-scarce environments. Developed independently, the game features custom 3D models, characters, weapons, and a comprehensive gameplay system that delivers a unique mobile gaming experience.
 
-🛰Offline war
-Warfare offline give experience against players from all over the world. in offline mode also it looks like online multiplayer games. Become the world champion of this dynamic action shooter. Duty calls!
+---
 
-🔫Tons of weapons
-Several dozens of deadly rifles to choose from. Pick the ones that suits your shooting tactics best. Crossfire with hand guns, SMG, assault rifles, sniper rifles, shotguns and even grenades. Each weapon type has several guns.
+### 📝 Full Description  
+**War Ground** transports players to a world ravaged by scarcity, where they must fight for survival and dominance in epic PvP battles. The game offers meticulously designed 3D environments, custom characters, and a variety of tactical gameplay mechanics, giving players the opportunity to engage in both online multiplayer and challenging offline battles with advanced AI. The game blends deep customization, intense gunplay, and strategic gameplay to create a mobile shooter unlike any other.
 
-🤖Improve your skill and gear
-The wargame offers dynamic gameplay in various maps designed for tactical warfare. Take part in exciting standoff with players from around the world and enjoy the intense action with dangerous opponents. Improve your combat skills during deadly warfare and collect resources to upgrade your guns and gear!
+---
 
-💻Stunning Graphics
-Pleasant graphics, which will help you to immerse into atmosphere of shooting action: fully-featured 3d models of weapons, soldiers and spectacular visual effects. This game can run smoothly in low end mobile devices, without impact quality difference.
+### 🔑 Key Features
 
-🌐Amazing locations
-Stunning shooter battlefields provide freedom for war tactics and maneuvers, as well as charming fallout sights to explore and immerse into post-apocalyptic world during standoff.
+- **🌍 Post-Apocalyptic World:** Battle for survival in visually rich, faction-based arenas.
+- **🎨 Custom 3D Art and Design:** All 3D assets including characters, weapons, and environments were custom-built from concept to completion.
+- **⚔️ PvP & Offline Modes:** Dynamic multiplayer battles and sophisticated offline AI modes ensure engagement across all platforms.
+- **🔫 Realistic Shooting Mechanics:** Every weapon is uniquely designed with its own recoil, ballistics, and damage metrics for immersive gameplay.
+- **📦 Inventory & Loadout System:** Players can customize their loadouts with weapons, gear, and skins before each battle.
+- **🏅 Reward & Progression System:** Earn rewards and progress through daily objectives, unlocking higher-tier weapons and skills.
+- **📊 A/B Testing & Analytics:** Used Firebase Analytics to optimize gameplay based on player feedback and engagement metrics.
 
-🎮Easy Controls
-Intuitive control and easy game UI will let you jump into warface battle straight away and master the tactical warfare! Embrace your duty!
+---
 
-🤼Advanced Matchmaking
-All battles in the wargame are created automatically, just call your friends, tap "FIGHT" and start warfare. Teams will be picked up from around the world so you can start having fun and shooting fast!
+### ⚙️ Technologies & Tools Used
 
-⚔Tactical Crossfire
-Develop your own standoff tactics and choose shooter weapons which suit it best! Climb to the high ground with the sniper rifle, prepare an ambush with shotgun or destroy everyone on your way with assault rifles!
+- **Unity3D:** Core game engine for rendering, physics, and multiplayer systems.
+- **Blender & Maya:** 3D modeling and animation tools for creating characters, environments, and assets.
+- **Substance Painter:** Texturing tool for detailed textures and realistic materials.
+- **C# Scripting:** Implemented core gameplay features such as shooting mechanics, AI behavior, and player movement.
+- **DOTween:** Used for smooth in-game animations and transitions.
+- **TextMesh Pro:** Enhanced text rendering and UI design.
+- **Firebase Analytics:** Tracked player behavior, retention, and performance for continuous improvements.
+- **Photoshop & Illustrator:** Designed promotional content, UI elements, and branding assets.
 
-🛠Customization
-Customize any shooting guns and your clothes. Several type of appearances for each military rifle and each type of warfare clothes. Create your own combat style!
+---
 
-💣Control the world
-The division with more war points during standoff wins. Change your wargame tactics depending on the situation. Control the world and don’t let enemies capture your territory. Answer the call of duty!
+### 🔧 Development Features
 
-Perfectly drawn battlefield and military textures, beautiful visuals. We created a great FPS PvP wargame. Regular updates and new content are waiting for you in PvP shooter wargame of 2022.
+1. **🎮 Character Controller & Movement System:**  
+   A responsive and fluid movement system allows players to sprint, jump, crouch, and aim across a variety of terrains with ease. The system enhances player control and makes combat feel immersive.
 
-Not sure what to play? Choose💣War Ground💣 PvP shooting action warfare game
+2. **🧠 Advanced AI System:**  
+   Offline AI provides a challenging experience by adapting to player tactics, coordinating ambushes, and using cover effectively. The AI mimics real-world player behaviors, making offline play engaging and unpredictable.
 
-Note:
-Dear users! We are constantly working on creating new content, improving the game, graphics and optimization! Please write to us if you find bugs or issues.
+3. **🔫 Shooting Mechanics:**  
+   Each weapon features unique handling characteristics such as recoil, firing rate, and bullet drop. Long-range engagements are enhanced with sniping mechanics including zoom, aim sway, and wind effects for realism.
 
-Contact Us:
-Runygamers@gmail.com
+4. **📦 Inventory & Loadout System:**  
+   Players can customize their loadouts with weapons, armor, and items before each match, adding strategic depth to the game. Items can also be personalized with skins and attachments.
 
-Follow Us:
-https://www.facebook.com/gaming/WarGroundOfficial
-https://www.facebook.com/gaming/RunyGames
+5. **🏆 Reward & Progression System:**  
+   An engaging progression system rewards players with currency and experience points, unlocking new weapons, gear, and cosmetics. Players can track their rank progression and access advanced skills and equipment as they level up.
+
+6. **🎬 Trailer Creation & Branding:**  
+   Designed a cinematic trailer that captures the intensity and depth of the game world. Branded promotional content was developed for consistent digital presence across social media platforms.
+
+7. **📊 A/B Testing & Analytics:**  
+   Used A/B testing to optimize various aspects of gameplay, including UI layouts, reward systems, and difficulty settings. Firebase Analytics provided valuable insights for improving player retention and engagement.
+
+---
+
+### 🚧 Challenges & Solutions
+
+- **Character & Weapon Design:** Created detailed 3D models that balanced visual quality with mobile performance, ensuring smooth gameplay on a wide range of devices.
+- **AI Behavior:** Developed an AI system capable of responding to different player strategies, providing a robust offline challenge that rivals online PvP.
+- **Shooting Mechanics:** Built realistic shooting mechanics with ballistics, recoil, and physics that offer a satisfying and tactical combat experience.
+- **Mobile Optimization:** Optimized assets and code execution to ensure smooth performance across devices without sacrificing visual fidelity.
+- **Community Building & Retention:** Successfully grew a player base through social media marketing, engaging players with regular updates, and implementing feedback-driven improvements.
+
+---
+
+### 📈 Outcome
+**War Ground** has been successfully developed and continues to grow with regular updates. Its custom-built features, intuitive controls, and richly detailed world have garnered a dedicated player base. The game offers a unique and highly engaging experience in the mobile PvP shooter genre.
+
+---
+
+### 🔗 Links and Resources
+
+- **Live Demo:** [War Ground Demo](#)
+- **GitHub Repository:** [War Ground GitHub Repo](#)
+- **Technologies Used:** Unity3D, Blender, Maya, Substance Painter, C#, DOTween, TextMesh Pro, Firebase Analytics, Photoshop, Illustrator
+
+---
+
+
 </p>
 
 ---
