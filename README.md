@@ -1,22 +1,3 @@
-<p align="center">
-    <a href="https://www.linkedin.com/in/shanmuka_jagadeesh" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-    </a>
-    <a href="mailto:shanmukhajagadeesh@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-    </a>
-    <a href="https://github.com/your-github-username" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-    </a>
-</p>
-
-<a href="https://your-resume-link" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobe">
-</a>
-
-### Project 1: Alpha Returns
-![Alpha Returns](https://raw.githubusercontent.com/PunnamShanmukh/Portfolio/refs/heads/main/War%20Ground/War%20Ground%20Game%20Icon.png)
-
 # 👋 Shanmuka Jagadeesh
 
 ### 🚀 Lead Unity Developer
