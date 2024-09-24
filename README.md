@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobe">
 </a>
 
+### Project 1: Alpha Returns
+![Alpha Returns](https://raw.githubusercontent.com/PunnamShanmukh/Portfolio/refs/heads/main/War%20Ground/War%20Ground%20Game%20Icon.png)
 
 # 👋 Shanmuka Jagadeesh
 
