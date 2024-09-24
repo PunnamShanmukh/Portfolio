@@ -1,10 +1,11 @@
-## WAR GROUND  
+# 🚀 War Ground – Indie PvP Shooter Game
+
 <p align="left">
   <img src="https://github.com/PunnamShanmukh/Portfolio/blob/main/War%20Ground/War%20Ground%20Game%20Icon.png?raw=true" alt="Project Icon" width="80">
 </p>
 
 ### 📋 Short Description  
-Gun Shooting game: TPS critical combat. Modern third person shooter: battle ops
+**War Ground** is a fully immersive, post-apocalyptic PvP shooter game where players battle for dominance in faction-based, resource-scarce environments. Developed independently, the game features custom 3D models, characters, weapons, and a comprehensive gameplay system that delivers a unique mobile gaming experience.
 
 ---
 
@@ -23,19 +24,6 @@ Gun Shooting game: TPS critical combat. Modern third person shooter: battle ops
 ---
 
 ### 📝 Full Description  
-<p align="justify">
-# 🚀 War Ground – Indie PvP Shooter Game
-
-<p align="left">
-  <img src="https://your-icon-url.com/war-ground-icon.png" alt="War Ground Icon" width="100">
-</p>
-
-### 📋 Short Description  
-**War Ground** is a fully immersive, post-apocalyptic PvP shooter game where players battle for dominance in faction-based, resource-scarce environments. Developed independently, the game features custom 3D models, characters, weapons, and a comprehensive gameplay system that delivers a unique mobile gaming experience.
-
----
-
-### 📝 Full Description  
 **War Ground** transports players to a world ravaged by scarcity, where they must fight for survival and dominance in epic PvP battles. The game offers meticulously designed 3D environments, custom characters, and a variety of tactical gameplay mechanics, giving players the opportunity to engage in both online multiplayer and challenging offline battles with advanced AI. The game blends deep customization, intense gunplay, and strategic gameplay to create a mobile shooter unlike any other.
 
 ---
@@ -43,7 +31,7 @@ Gun Shooting game: TPS critical combat. Modern third person shooter: battle ops
 ### 🔑 Key Features
 
 - **🌍 Post-Apocalyptic World:** Battle for survival in visually rich, faction-based arenas.
-- **🎨 Custom 3D Art and Design:** All 3D assets including characters, weapons, and environments were custom-built from concept to completion.
+- **🎨 Custom 3D Art and Design:** All 3D assets, including characters, weapons, and environments, were custom-built from concept to completion.
 - **⚔️ PvP & Offline Modes:** Dynamic multiplayer battles and sophisticated offline AI modes ensure engagement across all platforms.
 - **🔫 Realistic Shooting Mechanics:** Every weapon is uniquely designed with its own recoil, ballistics, and damage metrics for immersive gameplay.
 - **📦 Inventory & Loadout System:** Players can customize their loadouts with weapons, gear, and skins before each battle.
@@ -111,14 +99,3 @@ Gun Shooting game: TPS critical combat. Modern third person shooter: battle ops
 - **GitHub Repository:** [War Ground GitHub Repo](#)
 - **Technologies Used:** Unity3D, Blender, Maya, Substance Painter, C#, DOTween, TextMesh Pro, Firebase Analytics, Photoshop, Illustrator
 
----
-
-
-</p>
-
----
-
-### 🔗 Links and Resources  
-- **Live Demo:** [Project Demo Link](#)
-- **GitHub Repository:** [Project Repo Link](#)
-- **Technologies Used:** Unity3D, Firebase, Photon Unity Networking (PUN), C#, DOTween, ARKit, ARCore, etc.
