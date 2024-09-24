@@ -22,8 +22,6 @@ Gun Shooting game: TPS critical combat. Modern third person shooter: battle ops
 
 ---
 
-
-
 ### 📝 Full Description  
 <p align="justify">
 # 🚀 War Ground – Indie PvP Shooter Game
