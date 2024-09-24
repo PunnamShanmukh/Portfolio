@@ -132,28 +132,3 @@ Experienced Unity Developer with over **6 years** in game development, specializ
 
 ---
 
-## 📈 GitHub Stats
-
-![Shanmuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-## 📝 Latest Projects
-
-<!-- You can list your latest projects here with links -->
-
-- [Alpha Returns](https://github.com/your-github-username/alpha-returns) - Web3 mobile 3D shooting game.
-- [Poker VR](https://github.com/your-github-username/poker-vr) - Multiplayer VR poker game.
-- [War Ground](https://github.com/your-github-username/war-ground) - Offline PvP mobile 3D shooting game.
-
----
-
-<!-- Optional: Add a footer or any additional information -->
-
----
-
-<p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Profile views">
-  </a>
-</p>
